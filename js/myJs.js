@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "alo alo",
-  text3: "con mẹ mày",
-  text4: "ăn cứt k",
-  text5: "không",
-  text6: "CÓ chứ",
-  text7: "lí do cậu thích ăn cứt đi",
-  text8: "cc",
-  text9: "lừa",
+  text1: "Teo rất chào mày!",
+  text2: "hú hú",
+  text3: "Hỏi hay hay",
+  text4: "1+1 bằng mấy",
+  text5: "khác 2",
+  text6: "bằng 2",
+  text7: "Răng lại bằng 2",
+  text8: "gửi",
+  text9: "vì bạn đẹp trai là hiển nhiển, nên 1+1=2 cũng thế",
   text10: "ờ",
   text11:
-    "móc khu không",
+    "hê hê",
   text12: "ahihi",
 };
 
